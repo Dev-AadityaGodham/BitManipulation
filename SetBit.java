@@ -6,7 +6,7 @@ public class Main
 {
 	public static void main(String[] args) {
 	    
-	      //you can also get the number and position from the user
+//you can also get the number and position from the user
 // 	  Scanner sc =new Scanner(System.in);
 // 	  System.out.println("Enter the number :");
 // 	  int n = sc.nextInt();
@@ -14,8 +14,7 @@ public class Main
 // 	  int position =sc.nextInt();
 
 
-	    
-// 		//set the number and position 
+	//set the number and position 
         int n =5;
         int position = 1;
         
